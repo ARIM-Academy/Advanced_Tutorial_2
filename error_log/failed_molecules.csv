@@ -1,0 +1,2 @@
+ID,SMILES,Error
+6,CC(C)C(C=CC=C1C(C)C)=C1N2C=CN(C3=C(C(C)C)C=CC=C3C(C)C)B2C4=CC=CC=C4,コンフォーマー生成失敗
